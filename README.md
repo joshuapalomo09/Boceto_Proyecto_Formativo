@@ -2,3 +2,4 @@
 Boceto (dibujo) proyecto formativo (MAKEUP LAB)
 
 <img src="Boceto 1.jpg" width="700" height="450">
+<img src="Boceto 2.jpg" width="700" height="450">
